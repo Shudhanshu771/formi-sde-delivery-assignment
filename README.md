@@ -103,6 +103,7 @@ sde-delivery-assignment/
   "call_summary": "User asked about room availability for Executive Room."
 }
 ```
+<img width="1561" height="99" alt="image" src="https://github.com/user-attachments/assets/43ebf587-c47a-4d63-8279-c150cc04dcce" />
 
 ---
 

@@ -146,6 +146,8 @@ def log_to_google_sheet(data: dict):
 def handle_query(data: dict):
     query = data.get("query", "").lower()
 
+    print("🟡 Received Query:", query)
+
     if not query:
         return {"error": "Query is required"}
 
@@ -176,22 +178,34 @@ def handle_query(data: dict):
     primary_name = "Sterling_Holidays" if matched_location else "Sterling_Holidays"
 
     # Step 2: Build file path
-    file_path = os.path.join("public", "agent_directory", f"{selected_source}.csv")
+    file_path = os.path.join("data", f"{selected_source}.csv")
+
+    print("📄 Using CSV:", file_path)
 
     if not os.path.exists(file_path):
         return {"error": f"{selected_source}.csv not found."}
 
-    # Step 3: Read CSV
     try:
         df = pd.read_csv(file_path)
     except Exception as e:
         return {"error": f"Failed to read CSV: {str(e)}"}
 
-    # Step 4: Filter based on location
-    filtered_df = df[df['primary_name'].str.lower() == matched_location] if matched_location else df
+    print("🔢 Columns:", list(df.columns))
+    print("🔍 Matched location:", matched_location)
+
+    if "primary_name" in df.columns and matched_location:
+        filtered_df = df[df["primary_name"].str.lower() == matched_location]
+    else:
+        filtered_df = df
+
+    print("✅ Filtered rows:", len(filtered_df))
 
     if filtered_df.empty:
         return {"message": "No results found."}
 
-    # Step 5: Return top 5 rows as JSON (simplified)
-    return filtered_df.head(5).to_dict(orient="records")
+    # Safely convert to JSON serializable response
+    try:
+        result = filtered_df.head(5).fillna("NA").to_dict(orient="records")
+        return result
+    except Exception as e:
+        return {"error": f"Failed to convert response: {str(e)}"}

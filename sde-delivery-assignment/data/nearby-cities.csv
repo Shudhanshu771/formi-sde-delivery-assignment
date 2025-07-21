@@ -1,0 +1,317 @@
+primary_name,CITYNAME,DITANCEIN,DITSANCEINTIME,PREFERABLEMODEOFTRANSPORT
+Sterling Kodai Lake,Madurai,130,3-4 hrs,By Car
+Sterling Kodai Lake,Coimbatore,190,4-5 hrs,By Car
+Sterling Kodai Lake,Tirunelvely,280,6-7 hrs,By Car
+Sterling Kodai Lake,Tiruvnathapuram,350,7-8 hrs,By Car
+Sterling Kodai Lake,Bangalore,480,7-8 hrs,By Car
+Sterling Kodai Lake,Bangalore,480,9-10 hrs,By Bus
+Sterling Kodai Lake,Chennai,600,7-8 hrs,By Car
+Sterling Kodai Lake,Chennai,600,9-10 hrs,By Bus
+Sterling Ooty Elk Hill,Coimbatore,100,3 hrs,Cab
+Sterling Ooty Elk Hill,Mysore,140,5 hrs,Cab
+Sterling Ooty Elk Hill,Cochin,280,8 hrs,Volvo buses ( Govt and Private)
+Sterling Ooty Elk Hill,Bangalore,300,9 hrs,Volvo buses ( Govt and Private)
+Sterling Ooty Elk Hill,Chennai,650,15 hrs,Volvo buses ( Govt and Private)
+Sterling Lake Palace Alleppey,Cochin,60 km,1.5 hrs,Car
+Sterling Lake Palace Alleppey,Trivandrum,150km,4 hrs,Car
+Sterling Lake Palace Alleppey,Thekkady,150km,4 hrs,Car
+Sterling Lake Palace Alleppey,Munnar,170km,5 hrs,Car
+Sterling Lake Palace Alleppey,Bangalore,611km,11 hrs,Car
+Sterling Lake Palace Alleppey,Bangalore,,1.5 hrs,Flight
+Sterling Munnar,KodaiKanal,140,4 hrs,Car
+Sterling Munnar,Cochin,140,5 hrs,Car
+Sterling Munnar,Madurai,165,5 hrs,Car
+Sterling Munnar,Coimbatore,180,6 hrs,Car
+Sterling Munnar,Bangalore,500,10 hrs,Car
+Sterling Munnar,Chennai,565,12 hrs,Train / Car
+Sterling Thekkady,Vagamon,55,2 hrs,By Car
+Sterling Thekkady,Munnar,100,3 hrs,By Car
+Sterling Thekkady,Kumarakom,120,4 hrs,By Car
+Sterling Thekkady,Madurai,150,4 hrs,By Car
+Sterling Thekkady,Cochin,150,4 hrs,By car
+Sterling Manali,Kullu,45,1 hr,Road/Taxi
+Sterling Manali,Shimla,241,7 hrs,Volvo/Taxi
+Sterling Manali,Chandigarh,302,8 hrs,Volvo/Taxi
+Sterling Manali,Leh,450,12 hrs,Road/Taxi
+Sterling Manali,Delhi,533,12 hrs,Volvo/Taxi
+Sterling Manali,Srinagar,506,15 hrs,Road/Taxi
+Sterling Kufri,Chandigarh,120,4 hrs,Car
+Sterling Kufri,Delhi,475,9 hrs,Car
+Sterling Kufri,Ludhiana,225,6 hrs,Car
+Sterling Kufri,Amritsar,378,8.5 hrs,Car
+Sterling Gir,Somnath,50,1.5 hrs,Car /Bus
+Sterling Gir,Junagarh,65,1.5 hrs,Car /Bus
+Sterling Gir,Diu,90,2 hrs,Car /Bus
+Sterling Gir,Rajkot,170,4 hrs,Car /Bus
+Sterling Gir,Ahmedabad,360,8 hrs,Car / Bus
+Sterling Lonavala,Pune,75,1 hr 45 mins,Road
+Sterling Lonavala,Mumbai,90,3 hrs,Road
+Sterling Lonavala,Nashik,210,4 hrs 5 mins,Road
+Sterling Lonavala,Aurangabad,284,6 hrs,Road
+Sterling Lonavala,Ahmedabad,560,12 hrs 54 mins,Road
+Sterling Lonavala,Nagpur,756,14 hrs,Road
+Sterling Puri,Bhubnesawar,65,1.5 hrs,Cab / Bus / Train
+Sterling Puri,Cuttak,90,2.5 hrs,Cab / Bus / Train
+Sterling Puri,Hyderabad,1050,21 hrs,By Air / Train
+Sterling Puri,Bangalore,1435,27 hrs,By Air / Train
+Sterling Puri,Kolkatta,496,11 hrs,By Air / Train
+Sterling Puri,Mumbai,1770,33 hrs,By Air / Train
+Sterling Puri,Chennai,1226,23 hrs,By Air / Train
+Sterling Puri,Jharkhand,620,14 hrs,By Air / Train
+Sterling Kanha,Jabalpur,160,4 hrs,Roadway
+Sterling Kanha,Bhopal,415,8.5 hrs,Roadway
+Sterling Kanha,Indore,619,12 hrs,Roadway
+Sterling Kanha,Nagpur,300,6 hrs,Roadway
+Sterling Kanha,Raipur,250,5 hrs,Roadway
+Sterling Kanha,Bandhavgarh,250,4 hrs,Roadway
+Sterling Kanha,Bilaspur,250,5 hrs,Roadway
+Sterling Palavelli Godavari,Rajahmundry,87,2 hrs,"Road , Rail & Airport"
+Sterling Palavelli Godavari,Vijayawada,157,3 hrs,"Road , Rail & Airport"
+Sterling Palavelli Godavari,Vishakapatnam,260,5 and half hrs,"Road , Rail & Airport"
+Sterling Palavelli Godavari,Hyderabad,430,9 hrs approx,"Road , Rail & Airport"
+Sterling Nature Trails Durshet,Mumbai,90km,2 hrs,Car/Local Train
+Sterling Nature Trails Durshet,Pune,100km,2 hrs,Car
+Sterling Nature Trails Sajan,Mumbai,120 KM,3 hrs 12 mins,Car/Bus
+Sterling Nature Trails Sajan,Nasik,112 KM,4 hrs 49 mins,Car/Bus
+Sterling Nature Trails Sajan,Surat,202 KM,4 hrs 21 mins,Car/Bus
+Sterling Nature Trails Kundalika,Mumbai,110km,3.30 hrs,Car/Local Train
+Sterling Nature Trails Kundalika,Pune,110km,3 hrs,Car
+Sterling V Grand Madurai,Trichy,127 kms,2 hrs,"Flight , Train , Car, Bus"
+Sterling V Grand Madurai,Kodaikanal,120 kms,4.5 hrs,"Car, bus"
+Sterling V Grand Madurai,Coimbatore,221 kms,4.5 hrs,"Car, bus"
+Sterling V Grand Madurai,Kanyakumari,255 kms,5 hrs,"Car, bus"
+Sterling V Grand Madurai,OOTY,292 kms,7 hrs,"Car, bus"
+Sterling V Grand Madurai,Chennai,458 kms,7.5 hrs,"Flight , Train , Car, Bus"
+Sterling Guruvayur,Thrissur,30,1 hr,car
+Sterling Guruvayur,cochin,85,2.5 hohrsur,car
+Sterling Guruvayur,calicut,90,2.5 hrs,car
+Sterling Guruvayur,kunnamkulam,8,15 mins,car
+Sterling Park Kalimpong,Darjeeling,52,2.5 hrs,Private and Sharing cab
+Sterling Park Kalimpong,Siliguri,68,2.5 hrs,Private and Sharing cab
+Sterling Park Kalimpong,Gangtok,73,2.5 hrs,Private and Sharing cab
+Sterling Park Kalimpong,Kolkata,665,15 hrs,Private and Sharing cab
+Sterling Mount Abu,Udaipur,176kms,3 hrs,By Road
+Sterling Mount Abu,Ahmmedabad,226kms,5 hrs,Both Road & Train
+Sterling Mount Abu,Jodhpur,260 kms,5 hrs,By Road
+Sterling Mount Abu,Jaipur,494kms,9 hrs,Both Road & Train
+Sterling Ooty Fern Hill,Gudalur,50,2 hrs,Via Road
+Sterling Ooty Fern Hill,Coimbatore,95,3.30 hrs,Via Road
+Sterling Ooty Fern Hill,Wayanad,100,3.30 hrs,Via Road
+Sterling Ooty Fern Hill,Mysore,160,4.30 hrs,Via Road
+Sterling Ooty Fern Hill,Bangalore,300,7 hrs,Via Road
+Sterling Ooty Fern Hill,Kochi,300,8 hrs,Via Road
+Sterling Ooty Fern Hill,Chennai,600,12 hrs,Via Road
+Sterling Wayanad,Kozhikkodu,110,3 Hrs,Car
+Sterling Wayanad,Mysore,100,2.5 Hrs,Car
+Sterling Wayanad,SulthanBatheri,8,15 mnts,Car
+Sterling Wayanad,Kalpetta,30,45 mnts,Car
+Sterling Wayanad,Ooty,90,3 Hrs,Car
+Sterling Wayanad,Kannur,110,3.5 Hrs,Car
+Sterling Wayanad,Banglore,250 Kms,4.5 Hrs,Car
+Sterling Wayanad,Coorg,130 Kms,4 Hrs,Car
+Sterling Pushkar,Ajmer,17,40 mins,Road
+Sterling Pushkar,Jaipur,148,3 hrs,Road
+Sterling Pushkar,Jodhpur,179,3 hrs 51 mins,Road
+Sterling Pushkar,Udaipur,278,5 hrs 30 mins,Road
+Sterling Pushkar,Mt. Abu,364,6 hrs,Road
+Sterling Banashree Badami,Hubli,110,2.3 hrs,Cab / Bus / Train
+Sterling Banashree Badami,Bijapur,121,2.5 hrs,By Air / Train
+Sterling Banashree Badami,Belguam,141,3 hrs,Cab / Bus / Train
+Sterling Banashree Badami,Hampi,147,3 hrs,By Air / Train
+Sterling Banashree Badami,Goa,240,5 hrs,By Air / Train
+Sterling Banashree Badami,Hyderabad,420,8 hrs,By Air / Train
+Sterling Banashree Badami,Bangalore,454,8 hrs,By Air / Train
+Sterling Banashree Badami,Mumbai,591,12 hrs,By Air / Train
+Sterling Rewild Sariska,Alwar,48 KM,1 Hr,"Own Vehicle, Train, Bus, Cab"
+Sterling Rewild Sariska,Jaipur,124 KM,2.30 hrs,"Flight / Own Vehicle, Train, Bus, Cab"
+Sterling Rewild Sariska,Delhi,220 KM,3.5 hrs,"Flight / Own Vehicle, Train, Bus, Cab"
+Sterling Rewild Sariska,Agra,220 KM,5.5 hrs,"Own Vehicle, Train, Bus, Cab"
+Sterling Rewild Sariska,Pushkar,270 KM,6.5 hrs,"Own Vehicle, Train, Bus, Cab"
+Sterling Stolen Heaven,Pune,70,1 hr 45 mins,Road
+Sterling Stolen Heaven,Mumbai,100,3 hrs,Road
+Sterling Stolen Heaven,Nashik,210,4 hrs 5 mins,Road
+Sterling Stolen Heaven,Aurangabad,284,6 hrs,Road
+Sterling Stolen Heaven,Ahmedabad,560,12 hrs 54 mins,Road
+Sterling Stolen Heaven,Nagpur,756,14 hrs,Road
+Sterling Marbella Dehradun,Haridwar,53 km,1 hr 15 mins,By Car
+Sterling Marbella Dehradun,Rishikesh,47 km,1 hr 20 mins,By Car
+Sterling Marbella Dehradun,Meerut,192,4 hrs,By Car
+Sterling Marbella Dehradun,Delhi,270 km,5 hrs,By Car
+Sterling Marbella Dehradun,Noida,263 km,5 hrs,By Car
+Sterling Yelagiri,Bangalore,180,3.5 hrs,Car
+Sterling Yelagiri,Chennai,290,4.5 hrs,Car
+Sterling Yelagiri,Coimbatore,355,6.5 hrs,Car
+Sterling Yelagiri,Salem,185,4 hrs,Car
+Sterling Yelagiri,Vellore,101,2 hrs,Car
+Sterling Yelagiri,Mysore,320,6 hrs,Car
+Sterling Anaikatti,Coimbatore,47 KMS,1.5 hrs,
+Sterling Anaikatti,Palakkad,80 KMS,2 hrs,
+Sterling Darjeeling,Kalimpong,50,2 hrs,Car
+Sterling Darjeeling,Silliguri,60,2.5 hrs,Car
+Sterling Darjeeling,Gangtok,110,4 hrs,Car
+Sterling Darjeeling,Malda,289,7 hrs,Car
+Sterling Darjeeling,Patna,500,11 hrs,Car
+Sterling Darjeeling,Guwahati,500,11:30 hrs,Car
+Sterling Darjeeling,Kolkata,650,16 hrs,Car
+Sterling Darjeeling,Purulia,620,15 hrs,Car
+Sterling Kodai Valley,Palani,65KM,2 hrs,Taxi
+Sterling Kodai Valley,Theni,85km,2.5 hrs,Taxi
+Sterling Kodai Valley,Dindigul,95km,2.5 hrs,Taxi
+Sterling Kodai Valley,Madurai,120KM,3 hrs,Taxi
+Sterling Kodai Valley,Tiruppur,150km,3.5 hrs,Taxi
+Sterling Kodai Valley,Trichy,201KM,4.5 hrs,Taxi
+Sterling Kodai Valley,Coimbatore,175KM,5 hrs,Taxi
+Sterling Kodai Valley,Bangalore,464km,10 hrs,Bus
+Sterling Kodai Valley,Chennai,525Km,10 hrs,Bus
+Sterling Nainital,Nainital,7km,15 mins,Taxi Or Self Car
+Sterling Nainital,Kathgodam,35Km.,1 hr,Taxi Or Self Car
+Sterling Nainital,Haldwani,41Km.,1.25 hrs,Taxi Or Self Car
+Sterling Nainital,Pantnagar,60km.,1 hr,Taxi Or Self Car
+Sterling Nainital,Allahabad,582Km,12.35 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Chandigarh,515Km.,9.30 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Lucknow,384Km.,8.20 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Delhi,315km.,7.25 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Chennai,2293Km.,37.36 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Cochin,2810Km.,45.53 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Coimbatiore,2621Km.,42.23 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Hyderabad,1669Km.,27.51 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Mumbai,1640Km.,28.19 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Pune,1671Km.,29.06 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Rajkot,1415Km.,24.21 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Surat,1424Km.,24.18 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Baroda,1280Km.,21.45 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Ahemdabad,1191Km.,20.48 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Kolkota,1398Km.,24.35 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Bhubaneswar,1642Km.,29.16 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Nagpur,1170Km.,19.32 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Indore,1045Km.,17.29 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Kanpur,421Km.,9.59 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Bengaluru,2259Km.,36.30 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Jaipur,545Km.,10.30 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Goa Varca,Mangaluru,331,8 hrs,Road / Train / Air
+Sterling Goa Varca,Mumbai,440,12 hrs,Road / Train / Air
+Sterling Goa Varca,Bengaluru,455,12 hrs,Road / Train / Air
+Sterling Goa Varca,Pune,469,12 hrs,Road / Train / Air
+Sterling Goa Varca,Hyderabad,716,12 hrs,Road / Train / Air
+Sterling Goa Varca,Surat,880,16 hrs,Road / Train / Air
+Sterling Gangtok Orange Village,Darjeeling,96.5KM,3 to 4 hrs,Car/Local Bus
+Sterling Gangtok Orange Village,Siliguri,123KM,4.30 hrs,Car/Local Bus
+Sterling Gangtok Orange Village,Bihar,200 to 300 km,16 hrs,Car/Local Bus
+Sterling Gangtok Orange Village,Guwhati,300 to 400 KM,13 hrs,Car/Local Bus
+Sterling Padam Pench,Nagpur,100,2 hrs,car
+Sterling Padam Pench,Jabalpur,230,4 hrs,car
+Sterling Padam Pench,Hydrabad,582,7 hrs,car
+Sterling Padam Pench,Mumbai,860,11 hrs,car
+Sterling Padam Pench,Pune,782,10 hrs,car
+Sterling Padam Pench,Raipur,325,6 hrs,car
+Sterling Mantra Haridwar,Dehradun,60,1 hr,"Train , Car, Bus"
+Sterling Mantra Haridwar,Meerut,130,2.5 hrs,"Train , Car, Bus"
+Sterling Mantra Haridwar,Moradabad,150,3 hrs,"Train , Car, Bus"
+Sterling Mantra Haridwar,Delhi,200,3.5 hrs,"Flight , Train , Car, Bus"
+Sterling Mantra Haridwar,Chandigarh,200,3.5 hrs,"Train , Car, Bus"
+Sterling Mantra Haridwar,Jaipur,480,9 hrs,"Flight , Train , Car, Bus"
+Sterling Mantra Haridwar,Lucknow,500,10 hrs,"Flight , Train , Car, Bus"
+Sterling Mantra Haridwar,Gujrat,1120,20 hrs,"Flight , Train , Car, Bus"
+Sterling Mantra Haridwar,Mumbai,1600,30 hrs,"Flight , Train , Car, Bus"
+Sterling Shivalik Chail,Chandigarh,120,3.5 hrs,Innova/ small car
+Sterling Shivalik Chail,Ludhiana,220,5.5 hrs,Innova/small car
+Sterling Shivalik Chail,Amritsar,340,8 hrs,Innova/ small car
+Sterling Shivalik Chail,Delhi,350,9 hrs,Innova/ small car
+Sterling Shivalik Chail,Jalandhar,250,6.5 hrs,Innova/ small car
+Sterling Shivalik Chail,Baddi,125,4 hrs,Innova/ small car
+Sterling Legacy Shimla,Delhi,343,8 hrs,Road
+Sterling Legacy Shimla,Chandigarh,113,3.45 hrs,Road
+Sterling Legacy Shimla,Lucknow,882,14 hrs,Road
+Sterling Legacy Shimla,Amritsar,324,7 hrs,Road
+Sterling Panchgani,Pune,100km,3 hrs,bus/car
+Sterling Panchgani,Satara,50km,1 hr,bus/car
+Sterling Panchgani,Wai,15km,30 mins,car
+Sterling Panchgani,Mahabaleshwar,20km,45 mins,car
+Sterling Panchgani,Mumbai,250km,7 hrs,car
+Sterling Panchgani,Panchwad,25km,40 mins,bus/car
+Sterling Vythiri Wayanad,Kozhikode,62.7 kms,2 hrs,bus/car
+Sterling Vythiri Wayanad,Mysuru,150 kms,3 hrs 15 mins,bus/car
+Sterling Vythiri Wayanad,Ooty,130 kms,3 hrs 30 mins,car
+Sterling Vythiri Wayanad,Kannur,130,3 hrs 38 mins,car
+Sterling Vythiri Wayanad,Coorg,145 kms,3 hrs 40 mins,car
+Sterling Vythiri Wayanad,Bangalore,300. kms,5 hrs 30 mins,bus/car
+Sterling Balicha Udaipur,Ahamadabad,260 km,4 hrs,Car
+Sterling Balicha Udaipur,Jaipur,390 km,7 hrs,Car
+Sterling Balicha Udaipur,Jodhpur,250 km,4 hrs,Car
+Sterling Balicha Udaipur,Kota,270 Km,4.51 hrs,Car
+Sterling Balicha Udaipur,Ajmer,292.5 km,4 hrs 43 mins,Car
+Sterling Balicha Udaipur,Mount Abu,167.3 km,3 hrs 26 mins,Car
+Sterling Balicha Udaipur,Dhaulpur,657.1 km,11 hrs 12 mins,Car
+Sterling Balicha Udaipur,Pushkar,324.0 km,5 hrs 20 mins,Car
+Sterling Balicha Udaipur,Beawar,219.0 km,4 hrs 3 mins,Car
+Sterling Balicha Udaipur,Chittorgarh,118.7 km,2 hrs 3 mins,Car
+Sterling Balicha Udaipur,Bhilwara,161.3 km,2 hrs 47 mins,Car
+Sterling Corbett,Nainital,100 KM,3 hrs,Bus & Taxi
+Sterling Corbett,Dehradun,270 Kms,6 hrs,Bus & Taxi
+Sterling Corbett,Delhi,313 Kms,7 hrs,"Train, Bus & Taxi"
+Sterling Corbett,Chandigarh,435 Kms,9 hrs,"Train, Bus & Taxi"
+Sterling Athirappilly,Thrissur,58,1.5 hrs,Road
+Sterling Athirappilly,Ernakulam,72,2 hrs,Road
+Sterling Athirappilly,Calicut,260,3.5 hrs,Road & Rail
+Sterling Athirappilly,Coimbatore,430,4.5 hrs,"Air,Road & Rail"
+Sterling Athirappilly,Bangalore,502,10 hrs,"Air,Road & Rail"
+Sterling Athirappilly,Chennai,665,12 hrs,"Air,Road & Rail"
+"
+ Sterling City Centre Bokaro",Dhanbad,39 km,1 hr 8 mins,Car/Bus
+"
+ Sterling City Centre Bokaro",Purulia,78 km,2 hr 6 mins,Car
+"
+ Sterling City Centre Bokaro",Ranchi,112km,3 hr 8 mins,Car / Bus / Train
+"
+ Sterling City Centre Bokaro",Jamshedpur,133 km,3 hr 26 mins,Car / Bus / Train
+"
+ Sterling City Centre Bokaro",Kolkata,317 km,7 hr 28 mins,Car / Bus / Train
+"
+ Sterling City Centre Bokaro",Bhubaneswar,492 km,10 hrs 41 mins,Car / Train / Flight
+"
+ Sterling City Centre Bokaro",Mumbai,1774 km,30 hrs,Train/Flight
+"
+ Sterling City Centre Bokaro",Chennai,1716 km,31 hrs,Train/Flight
+Sterling Orient Woods,Nagpur,90,2 hrs,car
+Sterling Orient Woods,Jabalpur,225,4 hrs,car
+Sterling Orient Woods,Hydrabad,572,7 Hrs,car
+Sterling Orient Woods,Mumbai,860,11 Hrs,car
+Sterling Orient Woods,Pune,782,10 Hrs,car
+Sterling Orient Woods,Raipur,325,6 Hrs,car
+Sterling Nainital,Nainital,7km,15 mins,Taxi Or Self Car
+Sterling Nainital,Kathgodam,35Km.,1 hr,Taxi Or Self Car
+Sterling Nainital,Haldwani,40 Km.,1.25 hrs,Taxi Or Self Car
+Sterling Nainital,Pantnagar,70 km.,1 hr,Taxi Or Self Car
+Sterling Nainital,Allahabad,582Km,12.35 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Chandigarh,515Km.,9.30 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Lucknow,384Km.,8.20 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Delhi,315km.,7.25 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Chennai,2293Km.,37.36 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Cochin,2810Km.,45.53 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Coimbatiore,2621Km.,42.23 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Hyderabad,1669Km.,27.51 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Mumbai,1640Km.,28.19 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Pune,1671Km.,29.06 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Rajkot,1415Km.,24.21 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Surat,1424Km.,24.18 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Baroda,1280Km.,21.45 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Ahemdabad,1191Km.,20.48 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Kolkota,1398Km.,24.35 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Bhubaneswar,1642Km.,29.16 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Nagpur,1170Km.,19.32 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Indore,1045Km.,17.29 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Kanpur,421Km.,9.59 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Bengaluru,2259Km.,36.30 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Nainital,Jaipur,545Km.,10.30 hrs,"Taxi, Bus, Train Or Self Car"
+Sterling Corbett,Nainital,100 KM,3 hrs,Bus & Taxi
+Sterling Corbett,Dehradun,270 Kms,6 hrs,Bus & Taxi
+Sterling Corbett,Delhi,313 Kms,7 hrs,"Train, Bus & Taxi"
+Sterling Corbett,Chandigarh,435 Kms,9 hrs,"Train, Bus & Taxi"
+Sterling Aravalli,Ahmedabad,280 KM,5 hrs,Car
+Sterling Aravalli,Mount Abu,170,4 hrs,Car
+Sterling Aravalli,Jodhpur,300,7 hrs,Car
+Sterling Aravalli,Jaisalmer,600,12 hrs,Car
+Sterling Aravalli,Bikaner,500,12 hrs,Car
+Sterling Aravalli,Kumbhalgarh - In Rajsamand,70,1.5 hrs,Car
+Sterling Aravalli,Ranakpor- In Rajsamand,77,1.55 hrs,Car
+Sterling Aravalli,Parshuram Temple,99,2.31 Hrs,Car

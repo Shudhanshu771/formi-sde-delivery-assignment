@@ -1,0 +1,74 @@
+primary_name,HALLNAME,LOCATION,AreaInSqFeet,LengthInFeet,BreadthInFeet,HeightInFeet,ClearHeightinFeet,SuggestedbackdropheightinFeet,FixedStageDimensions,pre-funcltionareaspaceinSqFeet,Theater,Classroom,RoundTable,Cluster,UShape,LAWNATTACHED,Iswashroomattached,resort_name
+Sterling Kodai Lake,HALL-1,"First floor above the Reception 
+ (Lobby Level)",,36,30,7.1,7.1,,,,120 /90,60,30,40,30,No,Yes, Sterling Kodai Lake
+Sterling Ooty Elk Hill,Paradise,Basement 1,2720,80,34,9,8.5,24*8,24*12*1,24*16,250,96,120,120,60,No,Yes, Sterling Ooty Elk Hill
+Sterling Ooty Elk Hill,Blue Bell,Basement 1,578,34,17,11,11,10*8,,,36,18,24,24,15,No,Yes, Sterling Ooty Elk Hill
+Sterling Lake Palace Alleppey,HALL-1,Lobby Level,2156 SFT,65.6 FT,32.8 FT,12 FT,8 FT,7 FT,,684 FT,175,120,100,90,60,Yes,Yes, Sterling Lake Palace Alleppey
+Sterling Munnar,HALL-1,Lobby Level,1744.2,48.45,36,12,10,8,No fix stage,906.015,150,75,70,60,45,No,No, Sterling Munnar
+Sterling Thekkady,HALL-1,Seventh Floor,1764,42,42,18,18,12 Feet,"12, 06, 02",200,200,100,80,70,50,No,Yes, Sterling Thekkady
+Sterling Manali,HALL-1,Restaurant Level,750,50,15,12,15 feet,10X10 Feet,0,650,50,45,36,36,30,Yes,Yes, Sterling Manali
+Sterling Kufri,HALL-1,Top Floor,5500,105,52,14,8,8,Designer Shape 8 Inch Height,,250,160,200,160,70,No,Yes, Sterling Kufri
+Sterling Gir,HALL-1,First Floor,1915,55,35,10,10,8,No,No,100,80,80,60,40,No,Yes, Sterling Gir
+Sterling Lonavala,Aangan 1,Lobby Level,1400,40 ft,35 ft,9 ft,9ft,6 ft,,,120,60,60,60,40,,, Sterling Lonavala
+Sterling Lonavala,Aangan 2,Lobby Level,800,40 ft,25 ft,9ft,9ft,6ft,,,70,30,36,36,30,,, Sterling Lonavala
+Sterling Lonavala,Board room,Lobby Level,350,20 ft,10 ft,7ft,7ft,3 ft,,,0,0,0,0,14-16,,, Sterling Lonavala
+Sterling Puri,Kalinga + Ashoka,Down Level then Lobby,4125,110,37.5,10.8,10.8,8,na,1320,400,130,180,180,100,No,Yes, Sterling Puri
+Sterling Puri,Kalinga,Ground Floor,2625,70,37.5,14,10.5,10 ft,No,1320,36,50,36,50,40,,, Sterling Puri
+Sterling Puri,Ashoka,Ground Floor,1500,40,37.5,14,10.5,10 ft,No,1320,300,96,120,120,75,Yes,, Sterling Puri
+Sterling Kanha,HALL,Ground level,1900sq.ft,66,28.8,10.8,10.8,8ft,,400sq.ft,80,60,40,60,30,No,No, Sterling Kanha
+Sterling Palavelli Godavari,BALL ROOM,First Floor,2256,90,23,11.5,10,8,23 L X 9 W 1ft height,12X16,140,60,90,80,54,No,Yes, Sterling Palavelli Godavari
+Sterling Palavelli Godavari,Open Lawn,Lobby Level,4800,80,60,open,,,,,120,,80,60,,,, Sterling Palavelli Godavari
+Sterling Nature Trails Durshet,Conference Hall,Ground level,1411,44,32,8,8,8,No,,90,60,60,45,40,No,No, Sterling Nature Trails Durshet
+Sterling Nature Trails Sajan,HALL-1,Lobby Level,1500,50,30,8,,6,"10,12,1.10",,120,62,66,90,24,,, Sterling Nature Trails Sajan
+Sterling Nature Trails Kundalika,Conference Hall,Ground level,621.6,29.6,21`,10,10,10,,,40,50,30,30,40,No,No, Sterling Nature Trails Kundalika
+Sterling V Grand Madurai,Kondaatam,Lobby Level,3080,70ft,44 ft,23 ft ( from the floor ),20 ft ( from the stage ),10 ft,"Fixed Stage 
+ (L - 25 ft * B - 10 ft )",NO PFA,250,150,100,100,"Single U - 50 
+ Double U - 70",No,Yes, Sterling V Grand Madurai
+Sterling V Grand Madurai,Sabhai,Basement,3080,70ft,44 ft,12 ft,10 ft,6 ft,NO,NO,250,150,100,100,40,No,, Sterling V Grand Madurai
+Sterling V Grand Madurai,Discovey,First Floor,624,39ft,16ft,12 ft,10 ft,6 ft,NO,NO,50,15,30,30,20,No,, Sterling V Grand Madurai
+Sterling V Grand Madurai,Celebrations,First Floor,630,35 ft,18ft,12 ft,10 ft,6 ft,NO,NO,30,-,30,30,20,No,, Sterling V Grand Madurai
+Sterling Guruvayur,No hall here,,,,,,,,,,,,,,,,, Sterling Guruvayur
+Sterling Park Kalimpong,Fyafulla,,850,34,25,12,11,8,,,50,40,40,35,35,No,No, Sterling Park Kalimpong
+Sterling Mount Abu,Arbuda,,3240,72,45,9,9,7,16*8*1,750,150,80,70,70,30,No,Yes, Sterling Mount Abu
+Sterling Ooty Fern Hill,Ettines,Lobby Level,5670,81,70,16,14,13.7,no,1100,500,140,180,180,100,No,Yes, Sterling Ooty Fern Hill
+Sterling Ooty Fern Hill,Wellington,Ground level,1700,52,34,9,9,8.9,no,741,120,50,80,70,36,No,, Sterling Ooty Fern Hill
+Sterling Ooty Fern Hill,Toda Lawn,Ground Floor,11700,130,90,,,,,,150,,90,80,,,, Sterling Ooty Fern Hill
+Sterling Wayanad,Board room,Above Restaurant,914,34,26.6,9.3,10,9,No,300,65,45,36,30,25,No,, Sterling Wayanad
+Sterling Pushkar,HALL-1,Lobby Level,2116,63,34,9,9,7,,,120,100,36,36,40,No,Yes, Sterling Pushkar
+Sterling Pushkar,HALL-2,Minus 1 level,5109,131,39,9,8,7,,,170,150,125,96,110,No,, Sterling Pushkar
+Sterling Pushkar,Lawn,Lawn,32000,205,154,,,,,900,500,,250,250,,,, Sterling Pushkar
+Sterling Aravalli,Mewar -I,Ground Floor,3740,97.23,38.48,21.32,21,18,No Fixed Stage,,350,100,,180,80,Yes,Yes, Sterling Aravalli
+Sterling Aravalli,Havelli - II,Basement,3083,80.15,38.48,20,17,12,No Fixed Stage,,300,100,,180,40,No,Yes, Sterling Aravalli
+Sterling Banashree Badami,,,,,,,,,,,,,,,,,, Sterling Banashree Badami
+Sterling Rewild Sariska,Lawn,Ground Floor,1400,205,70,,,,,900,500,,250,250,,,, Sterling Rewild Sariska
+Sterling Stolen Heaven,HALL-1,Ground Floor,2100,70,30,10,10,10,,,120,42,84,70,45,,, Sterling Stolen Heaven 
+Sterling Marbella Dehradun,Conference Hall,Third Floor,585.75 sq.ft,35.5 ft,16.5 ft,8 ft,8 ft,7.6 ft,"Fixed stage yes. Dimensions ( 17, 4, 7.6 )",NO,30,14,,15,,No,Yes, Sterling Marbella Dehradun
+Sterling Yelagiri,HALL-1,First Floor,1160,58,20,8,8,7,No,450,90,40,35,50,40,No,Yes, Sterling Yelagiri
+Sterling Anaikatti,HALL-1,Lobby Level,500,14,10,7,,,,,25,20,20,20,12,,, Sterling Anaikatti
+Sterling Anaikatti,HALL-2,Lobby Level,1000,34.6,28.9,10,,,,,60,45,36,45,25,,, Sterling Anaikatti
+Sterling Darjeeling,Summit,Second Floor,1540,55,28,12,8,7,10 FIT BREADTH 16 FIT LENGTH 1 FIT HEIGHT,480,125,60,,64,50,No,Yes, Sterling Darjeeling
+Sterling Kodai Valley,Begonia,Second Floor,3000,60,50,12,11,10x10,"L-24FT,W-12FT,H-1FT",500Sq.ft,300,120,140,140,80,Yes upto 900,Yes, Sterling Kodai Valley
+Sterling Kodai Valley,Peach Hall,Second Floor,800,32,25,12,12,6x6,No,250Sq.ft,60,30,40,40,30,No,No, Sterling Kodai Valley
+Sterling Kodai Valley,Board Room,Second Floor,440,22,21,9,8,-,No,No,-,-,-,-,12,No,No, Sterling Kodai Valley
+Sterling Nainital,HALL-1,Top 3rd Floor Mail Block Lobby Level,1800,68.5,26.5,14,16,"10*9.2""",,192,150,70,70,70,50,No,No, Sterling Nainital
+Sterling Nainital,HALL-2,Lobby Level,840,24,35,8,8,,,,42,36,30,42,26,No,, Sterling Nainital
+Sterling Goa Varca,Conference Hall,Basement,2170,70,31,8.2,7,15x7,L21xB10xH1ft,,140,60,90,72,60,Yes,Yes, Sterling Goa Varca
+Sterling Goa Varca,Board Room,Basement,442,34,13,7,7,6,,,25,18,0,0,20,Yes,, Sterling Goa Varca
+Sterling Gangtok Orange Village,HALL-1,Lobby Level,1472,46,32,10.6,10.6,9,,1472,100,80,70,80,50,,Yes, Sterling Gangtok Orange Village
+Sterling Gangtok Orange Village,Manjushree,Floor Level,987,47,21,10,10,8.5,21X9X2,987,80,60,48,52,48,,, Sterling Gangtok Orange Village
+Sterling Padam Pench,Kulu,Next To Resturant,3500,70,50,11.5,11.5,10 fit,,,120,80,120,80,60,Yes,Yes, Sterling Padam Pench
+Sterling Mantra Haridwar,Crystal,First Floor,2000,60,28,11,9,9,,,150,75,80,60,50,Yes,Yes, Sterling Mantra Haridwar
+Sterling Shivalik Chail,HALL-1,Ground Floor,2754,81,34,10.5,10,8ft,,500,200,100,120,100,80,Yes,Yes, Sterling Shivalik Chail
+Sterling Legacy Shimla,There is no hall available at the hotel,,,,,,,,,,,,,,,,, Sterling Legacy Shimla
+Sterling Panchgani,HALL-1,Ground Floor,911.4,46'5 ft,19'6 ft,9 ft,9ft,6 ft,60,30,30,30,15,30,15,NO,Yes, Sterling Panchgani
+Sterling Vythiri Wayanad,HALL-1,,700,35,20,12,12,NO,NO,NO,40,24,25,30,26,No,Yes, Sterling Vythiri Wayanad
+Sterling Balicha Udaipur,,,,,,,,,,,,,,,,,, Sterling Balicha Udaipur
+Sterling Corbett,Sterling corbett,First Floor,1500,49,28,11,11,11,No Fixed Stage,300,70,60,44,48,50,No,Yes, Sterling Corbett
+Sterling Athirappilly,The Cascade,Lobby Level,985,49.5,20,11.5,10,8,Displaceable Stage: 20L X 12W 1ft height,24 X 5.5,80,60,40,60,32,Yes,Yes, Sterling Athirappilly
+Sterling Athirappilly,Cascade Lawns- Open Air,Lobby Level,510,27.5,18.5,10,10,8,,24 X 5.5,40,,,,14,,, Sterling Athirappilly
+Sterling City Centre Bokaro,Conventia(With Pillars),Lobby Level,5625,75ft,75ft,7.5 ft,7.5 ft,7.5 ft,"L 17ft, B 8ft, H 81 FT",,200,40,90,90,40,Yes,Yes, Sterling City Centre Bokaro
+Sterling City Centre Bokaro,Alora,Third Floor,2O58,42 ft,49ft,8ft,8ft,8ft,No,100 sq. ft,,,,,,,,
+Sterling Orient Woods,Pearl,Next To Lobby,4500,90,50,12,12,10ft,16/8/1.5,,400,120,170,220,120,Yes,Yes, Sterling Orient Woods
+Sterling Nainital,HALL-1,Top 3rd Floor Mail Block Lobby Level,1800,68.5,26.5,14,16,"10*9.2""",,192,150,70,70,70,50,No,No, Sterling Nainital
+Sterling Nainital,HALL-2,Lobby Level,840,24,35,8,8,,,,42,36,30,42,26,No,, Sterling Nainital
+Sterling Corbett,Sterling corbett,First Floor,1400,50,28,11,11,11,No Fixed Stage,300,80,60,50,60,50,No,Yes, Sterling Corbett

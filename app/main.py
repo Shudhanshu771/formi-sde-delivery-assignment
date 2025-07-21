@@ -140,3 +140,58 @@ def log_to_google_sheet(data: dict):
         return {"error": f"Error appending row: {str(e)}"}
 
     return {"message": "✅ Call log added successfully"}
+
+
+@app.post("/query")
+def handle_query(data: dict):
+    query = data.get("query", "").lower()
+
+    if not query:
+        return {"error": "Query is required"}
+
+    # Step 1: Use existing route logic
+    routing_map = {
+        "activities": ["activity", "indoor", "outdoor"],
+        "room-information": ["room", "suite", "deluxe", "guest"],
+        "pricing": ["price", "cost", "charges", "rate"],
+        "rules": ["rule", "policy", "checkin", "checkout"],
+        "queries": ["staff", "hire", "help", "housekeeping"]
+    }
+
+    selected_source = None
+    for source, keywords in routing_map.items():
+        for word in keywords:
+            if word in query:
+                selected_source = source
+                break
+        if selected_source:
+            break
+
+    if not selected_source:
+        return {"error": "Could not determine data source from query."}
+
+    # Extract location
+    known_locations = ["sterling kodai lake", "sterling holidays"]
+    matched_location = next((loc for loc in known_locations if loc in query), None)
+    primary_name = "Sterling_Holidays" if matched_location else "Sterling_Holidays"
+
+    # Step 2: Build file path
+    file_path = os.path.join("public", "agent_directory", f"{selected_source}.csv")
+
+    if not os.path.exists(file_path):
+        return {"error": f"{selected_source}.csv not found."}
+
+    # Step 3: Read CSV
+    try:
+        df = pd.read_csv(file_path)
+    except Exception as e:
+        return {"error": f"Failed to read CSV: {str(e)}"}
+
+    # Step 4: Filter based on location
+    filtered_df = df[df['primary_name'].str.lower() == matched_location] if matched_location else df
+
+    if filtered_df.empty:
+        return {"message": "No results found."}
+
+    # Step 5: Return top 5 rows as JSON (simplified)
+    return filtered_df.head(5).to_dict(orient="records")

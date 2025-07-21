@@ -57,3 +57,49 @@ def filter_information(req: FilterRequest):
     limited_result = limit_token_size(result_str, max_tokens=800)
 
     return {"filtered_data": limited_result}
+
+
+from fastapi import Body
+
+@app.post("/route")
+def route_query(data: dict = Body(...)):
+    query = data.get("query", "").lower()
+
+    if not query:
+        return {"error": "Query is required"}
+
+    # Very basic keyword routing logic
+    routing_map = {
+        "activities": ["activity", "indoor", "outdoor"],
+        "room-information": ["room", "suite", "deluxe", "guest"],
+        "pricing": ["price", "cost", "charges", "rate"],
+        "rules": ["rule", "policy", "checkin", "checkout"],
+        "queries": ["staff", "hire", "help", "housekeeping"]
+    }
+
+    selected_source = None
+    for source, keywords in routing_map.items():
+        for word in keywords:
+            if word in query:
+                selected_source = source
+                break
+        if selected_source:
+            break
+
+    if not selected_source:
+        return {"error": "Could not determine source from query"}
+
+    # Try to extract primary_name (we'll just use known locations for now)
+    known_locations = ["sterling kodai lake", "sterling holidays"]
+    matched_location = next((loc for loc in known_locations if loc in query), None)
+    if not matched_location:
+        matched_location = "Sterling_Holidays"  # fallback default
+
+    # Return structured object similar to /filter input
+    return {
+        "args": {
+            "primary_name": "Sterling_Holidays",  # simplified fallback
+            "source": selected_source,
+            "additional_filters": []
+        }
+    }

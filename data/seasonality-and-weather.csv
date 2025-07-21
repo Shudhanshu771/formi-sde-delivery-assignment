@@ -1,0 +1,556 @@
+primary_name,Month,SeasonType,SpecificDatestobehighlighted,MinTemp,MaxTemp,Snowfall,AdvisableWear
+Sterling Kodai Lake,Jan,Peak,1st jan to 31st Jan,8,18,N,Heavy Woolen
+Sterling Kodai Lake,Feb,Shoulder,1st Feb to 28th Feb,8,20,N,Heavy Woolen
+Sterling Kodai Lake,Mar,Shoulder,1st Mar to 31st Mar,11,22,N,Woolen
+Sterling Kodai Lake,Apr,Peak,1st Apr to 30th Apr,12,25,N,Woolen
+Sterling Kodai Lake,May,Peak,1st May to 31st May,13,27,N,Woolen
+Sterling Kodai Lake,Jun,Peak,1st Jun to 30st Jun,12,20,N,Woolen
+Sterling Kodai Lake,Jul,Lean,1st Jul to 31st Jul,12,18,N,Heavy Woolen
+Sterling Kodai Lake,Aug,Lean,1st Aug to 31st Aug,12,18,N,Heavy Woolen
+Sterling Kodai Lake,Sep,Shoulder,1st Sep to 30th Sep,11,18,N,Heavy Woolen
+Sterling Kodai Lake,Oct,2 Seasons,1st Oct to 31st Oct,11,18,N,Heavy Woolen
+Sterling Kodai Lake,Nov,Lean,1st Nov to 30th Nov,10,18,N,Heavy Woolen
+Sterling Kodai Lake,Dec,Peak,1st Dec to 31st Dec,8,18,N,Heavy Woolen
+Sterling Ooty Elk Hill,Jan,2 Seasons,"14th to 17th, 26th - Peak",0,15,N,Heavy Woolen
+Sterling Ooty Elk Hill,Feb,Shoulder,,12,25,N,Light Woolen
+Sterling Ooty Elk Hill,Mar,Shoulder,31st onwards Peak,12,25,N,Light Woolen
+Sterling Ooty Elk Hill,Apr,Peak,Peak Season,20,32,N,Cotton
+Sterling Ooty Elk Hill,May,Peak,Peak Season,20,32,N,Cotton
+Sterling Ooty Elk Hill,Jun,Peak,Peak Season,20,32,N,Cotton
+Sterling Ooty Elk Hill,Jul,Lean,Rainy,14,18,N,Rainy
+Sterling Ooty Elk Hill,Aug,Lean,13-17 Peak,16,22,N,Rainy
+Sterling Ooty Elk Hill,Sep,Lean,,18,22,N,Rainy
+Sterling Ooty Elk Hill,Oct,Shoulder,Dasara Holidays,14,20,N,Light Woolen
+Sterling Ooty Elk Hill,Nov,Shoulder,Diwali Holidays,14,20,N,Light Woolen
+Sterling Ooty Elk Hill,Dec,2 Seasons,20th to 31 - Peak,14,20,N,Heavy Woolen
+Sterling Lake Palace Alleppey,Jan,Peak,01 to 10 Jan,24,32,N,Cotton
+Sterling Lake Palace Alleppey,Feb,Shoulder,,24,32,N,Cotton
+Sterling Lake Palace Alleppey,Mar,Shoulder,,24,38,N,Cotton
+Sterling Lake Palace Alleppey,Apr,Shoulder,,24,38,N,Cotton
+Sterling Lake Palace Alleppey,May,Lean,,22,30,N,Cotton
+Sterling Lake Palace Alleppey,Jun,Lean,,22,30,N,Cotton
+Sterling Lake Palace Alleppey,Jul,Lean,,22,30,N,Cotton
+Sterling Lake Palace Alleppey,Aug,2 Seasons,,22,30,N,Cotton
+Sterling Lake Palace Alleppey,Sep,2 Seasons,,24,32,N,Cotton
+Sterling Lake Palace Alleppey,Oct,Peak,,24,32,N,Cotton
+Sterling Lake Palace Alleppey,Nov,Peak,,24,32,N,Cotton
+Sterling Lake Palace Alleppey,Dec,Peak,20-31,24,32,N,Cotton
+Sterling Munnar,Jan,Peak,1st jan to 31st Jan,8,18,N,Heavy Woolen
+Sterling Munnar,Feb,Shoulder,1st Feb to 28th Feb,10,22,N,Light Woolen
+Sterling Munnar,Mar,Shoulder,1st Mar to 31st Mar,15,23,N,Light Woolen
+Sterling Munnar,Apr,Shoulder,1st Apr to 30th Apr,18,25,N,Light Woolen
+Sterling Munnar,May,Peak,1st May to 31st May,20,27,N,Heavy Cotton
+Sterling Munnar,Jun,Peak,1st Jun to 30st Jun,19,25,N,Light Woolen
+Sterling Munnar,Jul,Lean,1st Jul to 31st Jul,19,25,N,Light Woolen
+Sterling Munnar,Aug,Lean,1st Aug to 31st Aug,15,22,N,Light Woolen
+Sterling Munnar,Sep,Shoulder,1st Sep to 30th Sep,17,23,N,Light Woolen
+Sterling Munnar,Oct,2 Seasons,1st Oct to 31st Oct,17,23,N,Light Woolen
+Sterling Munnar,Nov,Lean,1st Nov to 30th Nov,16,23,N,Light Woolen
+Sterling Munnar,Dec,Peak,1st Dec to 31st Dec,8,23,N,Heavy Woolen
+Sterling Thekkady,Jan,Peak,,10,25,N,Heavy Woolen
+Sterling Thekkady,Feb,Peak,,18,27,N,Light Woolen
+Sterling Thekkady,Mar,Lean,,22,28,N,Cotton
+Sterling Thekkady,Apr,Shoulder,,23,31,N,Cotton
+Sterling Thekkady,May,Peak,,23,31,N,Cotton
+Sterling Thekkady,Jun,Shoulder,,20,27,N,Light Woolen
+Sterling Thekkady,Jul,Lean,,20,26,N,Light Woolen
+Sterling Thekkady,Aug,Lean,,21,26,N,Light Woolen
+Sterling Thekkady,Sep,Lean,,22,27,N,Light Woolen
+Sterling Thekkady,Oct,Peak,,22,27,N,Light Woolen
+Sterling Thekkady,Nov,Peak,,13,27,N,Light Woolen
+Sterling Thekkady,Dec,Peak,,10,25,N,Heavy Woolen
+Sterling Manali,Jan,Lean,01 - 31 Lean,5,-10,Y,Heavy Woolen
+Sterling Manali,Feb,Lean,01 - 28 Lean,5,-10,Y,Heavy Woolen
+Sterling Manali,Mar,Lean,15 - 31 Peak,10,15,Y / N,Light Woolen
+Sterling Manali,Apr,Peak,01 - 30 Peak,20,15,N,Light Woolen
+Sterling Manali,May,Peak,01 - 31 Peak,25,15,N,Light Woolen
+Sterling Manali,Jun,Peak,01 - 30 Peak,28,15,N,Light Woolen
+Sterling Manali,Jul,Lean,01 - 15 Peak / Lean,28,18,N,Cotton
+Sterling Manali,Aug,Lean,01 - 31 Lean,28,18,N,Cotton
+Sterling Manali,Sep,2 Seasons,01 - 31 Lean,25,18,N,Cotton
+Sterling Manali,Oct,Shoulder,01 - 31 Avg. Festivity Season,20,12,Y,Heavy Woolen
+Sterling Manali,Nov,2 Seasons,01 - 30 Lean,15,0,Y,Heavy Woolen
+Sterling Manali,Dec,Lean,15-31 Peak,10,-5,Y,Heavy Woolen
+Sterling Kufri,Jan,2 Seasons,,-3,15,Y,Heavy Woolen
+Sterling Kufri,Feb,2 Seasons,,-3,15,Y,Heavy Woolen
+Sterling Kufri,Mar,Lean,,12,20,N,Light Woolen
+Sterling Kufri,Apr,Shoulder,,18,28,N,Light Woolen
+Sterling Kufri,May,Peak,Full Month,20,32,N,Cotton
+Sterling Kufri,Jun,Peak,Full Month,20,32,N,Cotton
+Sterling Kufri,Jul,Shoulder,,20,32,N,Umbrellas / Raincoats
+Sterling Kufri,Aug,Lean,,20,32,N,Umbrellas / Raincoats
+Sterling Kufri,Sep,Lean,,18,28,N,Umbrellas / Raincoats
+Sterling Kufri,Oct,Peak,Full Month,12,25,N,Light Woolen
+Sterling Kufri,Nov,Peak,Full Month,5,20,N,Heavy Woolen
+Sterling Kufri,Dec,2 Seasons,21st to 31st Dec,-3,15,Y,Heavy Woolen
+Sterling Gir,Jan,Shoulder,Full month,20,25,N,Light Woolen
+Sterling Gir,Feb,Lean,Full month,20,25,N,Light Woolen
+Sterling Gir,Mar,Shoulder,1-15th,25,35,N,Cotton
+Sterling Gir,Apr,Shoulder,full month,25,35,N,Cotton
+Sterling Gir,May,Peak,full month,30,40,N,Cotton
+Sterling Gir,Jun,2 Seasons,1-15th,30,40,N,Cotton
+Sterling Gir,Jul,Lean,full month,25,35,N,Cotton
+Sterling Gir,Aug,Lean,full month,25,35,N,Cotton
+Sterling Gir,Sep,Lean,full month,25,35,N,Cotton
+Sterling Gir,Oct,Peak,16th onwords,25,35,N,Cotton
+Sterling Gir,Nov,Peak,Full month,25,30,N,Cotton
+Sterling Gir,Dec,Peak,1-15th peak,25,30,N,Cotton
+Sterling Lonavala,Jan,Lean,,18,22,N,Normal
+Sterling Lonavala,Feb,Lean,,18,22,N,Normal
+Sterling Lonavala,Mar,Lean,,18,24,N,Normal
+Sterling Lonavala,Apr,Peak,,25,30,N,Normal
+Sterling Lonavala,May,Peak,,25,30,N,Normal
+Sterling Lonavala,Jun,Peak,,24,26,N,Rainy
+Sterling Lonavala,Jul,Peak,,18,22,N,Rainy
+Sterling Lonavala,Aug,Peak,,18,22,N,Rainy
+Sterling Lonavala,Sep,Peak,,20,24,N,Rainy
+Sterling Lonavala,Oct,2 Seasons,,18,20,N,Woolen
+Sterling Lonavala,Nov,2 Seasons,,16,20,N,Woolen
+Sterling Lonavala,Dec,2 Seasons,,12,20,N,Woolen
+Sterling Puri,Jan,Peak,,18,31,No,Light winter wear
+Sterling Puri,Feb,Peak,,20,31,No,
+Sterling Puri,Mar,Lean,,20,32,No,
+Sterling Puri,Apr,Lean,,25,38,No,
+Sterling Puri,May,Peak,,25,38,No,
+Sterling Puri,Jun,Shoulder,,24,37,No,
+Sterling Puri,Jul,Lean,,24,37,No,
+Sterling Puri,Aug,2 Seasons,,24,37,No,
+Sterling Puri,Sep,Lean,,22,34,No,
+Sterling Puri,Oct,Peak,,21,33,No,
+Sterling Puri,Nov,Peak,,17,31,No,Light winter wear
+Sterling Puri,Dec,Peak,,,,No,Light winter wear
+Sterling Kanha,Jan,2 Seasons,23rd - 30th Jan,5,24,N,Heavy Woolen
+Sterling Kanha,Feb,2 Seasons,10th - 16th Feb,12,27,N,Light Woolen
+Sterling Kanha,Mar,Peak,2nd week onwards,17,39,N,Cotton
+Sterling Kanha,Apr,Peak,,22,40,N,Cotton
+Sterling Kanha,May,Peak,,25,48,N,Cotton
+Sterling Kanha,Jun,Peak,,23,42,N,Cotton
+Sterling Kanha,Jul,Lean,,22,30,N,Cotton
+Sterling Kanha,Aug,Lean,,20,26,N,Cotton
+Sterling Kanha,Sep,Lean,,20,26,N,Cotton
+Sterling Kanha,Oct,Peak,2nd - 9th Oct,18,28,N,Light Woolen
+Sterling Kanha,Nov,Peak,,7,20,N,Heavy Woolen
+Sterling Kanha,Dec,2 Seasons,20th - 31st Dec,2,17,N,Heavy Woolen
+Sterling Palavelli Godavari,Jan,Peak,13 - 17 (pongal..high rates they come for cock fights which is 250 meters away only) & 26 long week end,15,25,N,Light Woolen
+Sterling Palavelli Godavari,Feb,Shoulder,,15,25,N,Cotton
+Sterling Palavelli Godavari,Mar,2 Seasons,,30,35,N,Cotton
+Sterling Palavelli Godavari,Apr,Lean,,30,40,N,Cotton
+Sterling Palavelli Godavari,May,2 Seasons,,40,45,N,Cotton
+Sterling Palavelli Godavari,Jun,2 Seasons,,40,45,N,Cotton
+Sterling Palavelli Godavari,Jul,Lean,,30,35,N,Cotton
+Sterling Palavelli Godavari,Aug,Lean,13-17 Peak,28,35,N,Cotton
+Sterling Palavelli Godavari,Sep,Lean,,28,35,N,Cotton
+Sterling Palavelli Godavari,Oct,Peak,all holidays,22,35,N,Cotton
+Sterling Palavelli Godavari,Nov,Shoulder,,22,35,N,Cotton
+Sterling Palavelli Godavari,Dec,Peak,"all fridays, Saturday, sundays. 24.25.30.31",15,25,N,Light Woolen
+Sterling Nature Trails Durshet,Jan,2 Seasons,Guest movement are high on weekend,15.1,29,,Light Woollen
+Sterling Nature Trails Durshet,Feb,Lean,Guest movement are high on weekend,17.5,35,,Cotton
+Sterling Nature Trails Durshet,Mar,Lean,Guest movement are high on weekend,19.2,36,,Cotton
+Sterling Nature Trails Durshet,Apr,Lean,Guest movement are high on weekend,22.6,39,,Cotton
+Sterling Nature Trails Durshet,May,2 Seasons,Guest movement are high on weekend,24.9,39.9,,Cotton
+Sterling Nature Trails Durshet,Jun,2 Seasons,Guest movement are high on weekend,23.8,40.1,,Cotton
+Sterling Nature Trails Durshet,Jul,2 Seasons,Guest movement are high on weekend,24.7,42.5,,Cotton
+Sterling Nature Trails Durshet,Aug,Shoulder,Guest movement are high on weekend,23.9,42.7,,Cotton
+Sterling Nature Trails Durshet,Sep,Shoulder,Guest movement are high on weekend,21.1,41.9,,Cotton
+Sterling Nature Trails Durshet,Oct,Peak,Guest movement are high on weekend,21.4,37.8,,Cotton
+Sterling Nature Trails Durshet,Nov,Peak,Guest movement are high on weekend,17.7,36.2,,Cotton
+Sterling Nature Trails Durshet,Dec,Peak,24th to 31st,16,30.5,,Light Woollen
+Sterling Nature Trails Sajan,Jan,Peak,,14,26,N,Light Woolen
+Sterling Nature Trails Sajan,Feb,Peak,,20,34,N,Light Woolen
+Sterling Nature Trails Sajan,Mar,Lean,,22,36,N,Cotton
+Sterling Nature Trails Sajan,Apr,Lean,,24,40,N,Cotton
+Sterling Nature Trails Sajan,May,Lean,,24,41,N,Cotton
+Sterling Nature Trails Sajan,Jun,Shoulder,,24,40,N,Cotton
+Sterling Nature Trails Sajan,Jul,Shoulder,,24,40,N,Cotton
+Sterling Nature Trails Sajan,Aug,2 Seasons,,22,38,N,Cotton and rain coat advice
+Sterling Nature Trails Sajan,Sep,2 Seasons,,22,38,N,Cotton and rain coat advice
+Sterling Nature Trails Sajan,Oct,2 Seasons,,22,38,N,Cotton and rain coat advice
+Sterling Nature Trails Sajan,Nov,Peak,,16,26,N,Light Woolen
+Sterling Nature Trails Sajan,Dec,Peak,,16,26,N,Light Woolen
+Sterling Nature Trails Kundalika,Jan,2 Seasons,Guest movement are high on weekend,15.1,29,,Light Woollen
+Sterling Nature Trails Kundalika,Feb,Lean,Guest movement are high on weekend,17.5,35,,Cotton
+Sterling Nature Trails Kundalika,Mar,Lean,Guest movement are high on weekend,19.2,36,,Cotton
+Sterling Nature Trails Kundalika,Apr,Lean,Guest movement are high on weekend,22.6,39,,Cotton
+Sterling Nature Trails Kundalika,May,2 Seasons,Guest movement are high on weekend,24.9,39.9,,Cotton
+Sterling Nature Trails Kundalika,Jun,2 Seasons,Guest movement are high on weekend,23.8,40.1,,Cotton
+Sterling Nature Trails Kundalika,Jul,2 Seasons,Guest movement are high on weekend,24.7,42.5,,Cotton
+Sterling Nature Trails Kundalika,Aug,Shoulder,Guest movement are high on weekend,23.9,42.7,,Cotton
+Sterling Nature Trails Kundalika,Sep,Shoulder,Guest movement are high on weekend,21.1,41.9,,Cotton
+Sterling Nature Trails Kundalika,Oct,Peak,Guest movement are high on weekend,21.4,37.8,,Cotton
+Sterling Nature Trails Kundalika,Nov,Peak,Guest movement are high on weekend,17.7,36.2,,Cotton
+Sterling Nature Trails Kundalika,Dec,Peak,24th to 31st,16,30.5,,Light Woollen
+Sterling V Grand Madurai,Jan,Shoulder,"Tamil Wedding Days , Jallikattu - bull taming event ( 13,14,15)",21,32.4,N,Casual Wear
+Sterling V Grand Madurai,Feb,Shoulder,Tamil Wedding Days,22,34.6,N,Casual Wear
+Sterling V Grand Madurai,Mar,Shoulder,Tamil Wedding Days,24.3,37.3,N,Casual Wear
+Sterling V Grand Madurai,Apr,Peak,"Tamil Wedding Days , Chitthirai Thiruvizha - associated with the Meenakshi Temple, dedicated to the goddess Meenakshi, a form of Parvati (23rd April - 9th May 2023)",26.2,39.3,N,Summer wear
+Sterling V Grand Madurai,May,Peak,"Tamil Wedding Days , Chitthirai Thiruvizha - associated with the Meenakshi Temple, dedicated to the goddess Meenakshi, a form of Parvati (23rd April - 9th May 2023)",26.4,39.2,N,Summer wear
+Sterling V Grand Madurai,Jun,Shoulder,Tamil Wedding Days,26.3,38.8,N,Summer wear
+Sterling V Grand Madurai,Jul,2 Seasons,Tamil Wedding Days,26.1,38,N,Summer wear
+Sterling V Grand Madurai,Aug,2 Seasons,Tamil Wedding Days,25.4,37.4,N,Summer wear
+Sterling V Grand Madurai,Sep,Lean,"Tamil Wedding Days , Navarathri - Hindu festival observed in the honour of the goddess Durga",24.6,36.2,N,Summer wear
+Sterling V Grand Madurai,Oct,Shoulder,Tamil Wedding Days,24.3,35.1,N,Summer wear
+Sterling V Grand Madurai,Nov,Shoulder,Tamil Wedding Days,23.4,32.8,N,Casual Wear
+Sterling V Grand Madurai,Dec,Peak,Tamil Wedding Days,22.2,31.6,N,Casual Wear
+Sterling Guruvayur,Jan,Shoulder,,28,32,No,casual wear
+Sterling Guruvayur,Feb,Lean,,31,35,No,casual wear
+Sterling Guruvayur,Mar,Lean,,31,35,No,casual wear
+Sterling Guruvayur,Apr,Peak,01 - 30 summer vacasion,31,35,No,casual wear
+Sterling Guruvayur,May,Peak,01 - 30 summer vacasion,31,35,No,casual wear
+Sterling Guruvayur,Jun,Shoulder,,28,32,No,casual wear
+Sterling Guruvayur,Jul,Lean,,28,32,No,casual wear
+Sterling Guruvayur,Aug,Shoulder,15 - 30 peak,28,32,No,casual wear
+Sterling Guruvayur,Sep,Shoulder,01 - 16 peak,28,32,No,casual wear
+Sterling Guruvayur,Oct,Shoulder,,28,32,No,casual wear
+Sterling Guruvayur,Nov,Shoulder,,28,32,No,casual wear
+Sterling Guruvayur,Dec,Peak,21 - 31 peak,25,30,No,casual wear
+Sterling Park Kalimpong,Jan,Lean,,5,17,N,Heavy Woolen
+Sterling Park Kalimpong,Feb,Lean,,5,20,N,Heavy Woolen
+Sterling Park Kalimpong,Mar,Shoulder,,11,24,N,Light Woolen
+Sterling Park Kalimpong,Apr,Peak,,11,24,N,Cotton wear / Sunglassess
+Sterling Park Kalimpong,May,Peak,,16,25,N,Cotton wear / Sunglassess
+Sterling Park Kalimpong,Jun,Peak,,16,25,N,Cotton wear / Umbrella
+Sterling Park Kalimpong,Jul,Lean,,18,24,N,Cotton wear / Umbrella
+Sterling Park Kalimpong,Aug,Shoulder,13-17 Peak,18,24,N,Cotton wear / Umbrella
+Sterling Park Kalimpong,Sep,Shoulder,,18,24,N,Cotton wear / Umbrella
+Sterling Park Kalimpong,Oct,Peak,21st to 30th Peak,11,22,N,Light Woolen
+Sterling Park Kalimpong,Nov,Lean,,11,22,N,Light Woolen
+Sterling Park Kalimpong,Dec,2 Seasons,20-31 Peak,5,17,N,Heavy Woolen
+Sterling Mount Abu,Jan,2 Seasons,1-15 peak,0,5,N,Heavy Woolen
+Sterling Mount Abu,Feb,2 Seasons,14-28 peak,5,12,N,Heavy Woolen
+Sterling Mount Abu,Mar,Lean,,10,20,N,Light Woolen
+Sterling Mount Abu,Apr,Peak,,20,28,N,Cotton
+Sterling Mount Abu,May,Peak,,25,35,N,Cotton
+Sterling Mount Abu,Jun,Shoulder,,25,35,N,Cotton
+Sterling Mount Abu,Jul,Peak,,18,25,N,Cotton
+Sterling Mount Abu,Aug,2 Seasons,13-17 Peak,22,32,N,Cotton
+Sterling Mount Abu,Sep,Lean,,20,28,N,Cotton
+Sterling Mount Abu,Oct,Shoulder,,20,26,N,Light Woolen
+Sterling Mount Abu,Nov,Peak,,15,22,N,Light Woolen
+Sterling Mount Abu,Dec,Peak,21-31 Peak,-2,5,N,Heavy Woolen
+Sterling Ooty Fern Hill,Jan,Lean,,6,16,Y,Winter season Heavy Woolen
+Sterling Ooty Fern Hill,Feb,Lean,,10,28,N,Woolen cloths
+Sterling Ooty Fern Hill,Mar,Shoulder,,12,28,N,Woolen cloths
+Sterling Ooty Fern Hill,Apr,Peak,"Summer Vacations, pleaseant climate in Ooty.",10,28,N,Light Woolen cloths
+Sterling Ooty Fern Hill,May,Peak,"Summer Vacations, pleaseant climate in Ooty.",10,28,N,Light Woolen cloths
+Sterling Ooty Fern Hill,Jun,Peak,"Summer Vacations, pleaseant climate in Ooty.",10,28,N,"Rainy season, Rain Coat Heavy woollen cloths"
+Sterling Ooty Fern Hill,Jul,Lean,"Lean season historicalty, may be due to schools and climate",10,28,N,"Rainy season, Rain Coat Heavy woollen cloths"
+Sterling Ooty Fern Hill,Aug,2 Seasons,,10,28,N,Woolen cloths
+Sterling Ooty Fern Hill,Sep,2 Seasons,,10,28,N,Woolen cloths
+Sterling Ooty Fern Hill,Oct,Shoulder,Diwali and Navratri season,6,28,N,Woolen cloths
+Sterling Ooty Fern Hill,Nov,Shoulder,Diwali and Navratri season,4,28,N,"Rainy season, Rain Coat Heavy woollen cloths"
+Sterling Ooty Fern Hill,Dec,Peak,20 to 31st,4,28,Y,Winter season Heavy Woolen
+Sterling Wayanad,Jan,Peak,1-17 Peak,14°C,26,N,Light Woolen
+Sterling Wayanad,Feb,Shoulder,,16°C,26,N,Cotton
+Sterling Wayanad,Mar,Shoulder,,18°C,28,N,Cotton
+Sterling Wayanad,Apr,Peak,15-30 Peak,22°C,32,N,Cotton
+Sterling Wayanad,May,Peak,1-30 Peak,22°C,34,N,Cotton
+Sterling Wayanad,Jun,Lean,1-15 Peak,18°C,30,N,Cotton
+Sterling Wayanad,Jul,Lean,,16°C,28,N,Cotton
+Sterling Wayanad,Aug,Shoulder,13-17 Peak,16°C,28,N,Light Woolen
+Sterling Wayanad,Sep,Shoulder,3-9 Peak,18°C,30,N,Light Woolen
+Sterling Wayanad,Oct,Shoulder,,18°C,30,N,Light Woolen
+Sterling Wayanad,Nov,Peak,12-19 Peak,16°C,28,N,Light Woolen
+Sterling Wayanad,Dec,Peak,18-30 Peak,14°C,26,N,Light Woolen
+Sterling Pushkar,Jan,Peak,,6,27,No,Heavy Woolen
+Sterling Pushkar,Feb,Peak,,8,32,No,Heavy Woolen
+Sterling Pushkar,Mar,Peak,Holi festival dates,14,39,No,Light Woolen
+Sterling Pushkar,Apr,2 Seasons,,21,42,No,Cotton
+Sterling Pushkar,May,Lean,,24,43,No,Cotton
+Sterling Pushkar,Jun,Lean,,28,41,No,Cotton
+Sterling Pushkar,Jul,Lean,,26,36,No,Cotton
+Sterling Pushkar,Aug,Lean,,24,33,No,Cotton
+Sterling Pushkar,Sep,2 Seasons,,22,33,No,Cotton
+Sterling Pushkar,Oct,Shoulder,,18,34,No,Light Woolen
+Sterling Pushkar,Nov,Peak,Pushkar Camel fair,14,29,No,Heavy Woolen
+Sterling Pushkar,Dec,Peak,"25th, 30th, 31st",9,25,No,Heavy Woolen
+Sterling Aravalli,Jan,Peak,Wedding season & Long Weekends,9,24,N,Heavy Woolen
+Sterling Aravalli,Feb,Peak,Wedding season & Long Weekends,12,27,N,Light Woolen
+Sterling Aravalli,Mar,Peak,Wedding season & Long Weekends,16,32,N,Cotton
+Sterling Aravalli,Apr,2 Seasons,,21,37,N,Cotton
+Sterling Aravalli,May,2 Seasons,Wedding season,24,38,N,Cotton
+Sterling Aravalli,Jun,2 Seasons,,25,35,N,Cotton
+Sterling Aravalli,Jul,Lean,1st of july -15th sept is our rainy season.,23,29,N,Cotton
+Sterling Aravalli,Aug,Lean,1st of july -15th sept is our rainy season.,22,28,N,Cotton
+Sterling Aravalli,Sep,Shoulder,1st of july -15th sept is our rainy season.,21,30,N,Cotton
+Sterling Aravalli,Oct,Shoulder,Long Weekends,19,31,N,Light Woolen
+Sterling Aravalli,Nov,Peak,Wedding season,15,28,N,Light Woolen
+Sterling Aravalli,Dec,Peak,"Due to festive season, our occupancy is full in December",11,25,N,Heavy Woolen
+Sterling Banashree Badami,Jan,Peak,Banasankri Mela,20°,30°,N,Woolen cloths
+Sterling Banashree Badami,Feb,Peak,,22°,33°,N,
+Sterling Banashree Badami,Mar,Lean,,25°,36°,N,
+Sterling Banashree Badami,Apr,Lean,,28°,38°,N,
+Sterling Banashree Badami,May,Shoulder,,28°,39°,N,
+Sterling Banashree Badami,Jun,Shoulder,,25°,32°,N,
+Sterling Banashree Badami,Jul,2 Seasons,,24°,29°,N,"Rainy season, Rain Coat"
+Sterling Banashree Badami,Aug,2 Seasons,,23°,28°,N,"Rainy season, Rain Coat"
+Sterling Banashree Badami,Sep,Peak,,23°,29°,N,"Rainy season, Rain Coat"
+Sterling Banashree Badami,Oct,Peak,Diwali and Navratri season,23°,30°,N,
+Sterling Banashree Badami,Nov,Peak,Diwali and Navratri season,21°,29°,N,Woolen cloths
+Sterling Banashree Badami,Dec,Peak,20 to 31st,19°,29°,N,Woolen cloths
+Sterling Rewild Sariska,Jan,Peak,,5,25,N,Heavy Woolen
+Sterling Rewild Sariska,Feb,Peak,,8,32,N,Heavy Woolen
+Sterling Rewild Sariska,Mar,Peak,,20,38,N,Light Woolen
+Sterling Rewild Sariska,Apr,Shoulder,,25,40,N,Cotton
+Sterling Rewild Sariska,May,Shoulder,,30,45,N,Cotton
+Sterling Rewild Sariska,Jun,Shoulder,,32,45,N,Cotton
+Sterling Rewild Sariska,Jul,Lean,during monsoons only buffer zone remains open which is the road going straight to Hanuman Ji's Temple called Pandu pole.,25,35,N,Cotton
+Sterling Rewild Sariska,Aug,Lean,during monsoons only buffer zone remains open which is the road going straight to Hanuman Ji's Temple called Pandu pole.,25,35,N,Cotton
+Sterling Rewild Sariska,Sep,Lean,during monsoons only buffer zone remains open which is the road going straight to Hanuman Ji's Temple called Pandu pole.,23,35,N,Cotton
+Sterling Rewild Sariska,Oct,Peak,,18,32,N,Cotton
+Sterling Rewild Sariska,Nov,Peak,,10,28,N,Heavy Woolen
+Sterling Rewild Sariska,Dec,Peak,,7,23,N,Heavy Woolen
+Sterling Stolen Heaven,Jan,Lean,,18,22,N,Normal
+Sterling Stolen Heaven,Feb,Lean,,18,22,N,Normal
+Sterling Stolen Heaven,Mar,Lean,,18,24,N,Normal
+Sterling Stolen Heaven,Apr,Peak,,25,30,N,Normal
+Sterling Stolen Heaven,May,Peak,,25,30,N,Normal
+Sterling Stolen Heaven,Jun,Peak,,24,26,N,Rainy
+Sterling Stolen Heaven,Jul,Peak,,18,22,N,Rainy
+Sterling Stolen Heaven,Aug,Peak,,18,22,N,Rainy
+Sterling Stolen Heaven,Sep,Peak,,20,24,N,Rainy
+Sterling Stolen Heaven,Oct,2 Seasons,,18,20,N,Woolen
+Sterling Stolen Heaven,Nov,2 Seasons,,16,20,N,Woolen
+Sterling Stolen Heaven,Dec,2 Seasons,,12,20,N,Woolen
+Sterling Marbella Dehradun,Jan,Lean,26,6,21,N,Woolen
+Sterling Marbella Dehradun,Feb,Lean,14,9,23,N,Woolen
+Sterling Marbella Dehradun,Mar,2 Seasons,25,13,28,N,Semi Woolen
+Sterling Marbella Dehradun,Apr,Shoulder,"11,14,21",17,33,N,Cotton
+Sterling Marbella Dehradun,May,Shoulder,23,21,36,N,Cotton
+Sterling Marbella Dehradun,Jun,Shoulder,"16,17",23,35,N,Cotton
+Sterling Marbella Dehradun,Jul,Lean,16,23,31,N,Cotton
+Sterling Marbella Dehradun,Aug,Lean,15,23,31,N,Cotton
+Sterling Marbella Dehradun,Sep,Lean,"15,17",21,31,N,Cotton
+Sterling Marbella Dehradun,Oct,2 Seasons,"2,31",16,30,N,Semi Woolen
+Sterling Marbella Dehradun,Nov,Shoulder,"12,15",11,26,N,woolen
+Sterling Marbella Dehradun,Dec,Shoulder,25,7,22,N,woolen
+Sterling Yelagiri,Jan,Shoulder,,14,25,N,Woolen
+Sterling Yelagiri,Feb,Lean,,15,28,N,Woolen
+Sterling Yelagiri,Mar,Lean,,17,30,N,Light Woolen
+Sterling Yelagiri,Apr,Peak,,19,31,N,Cotton
+Sterling Yelagiri,May,Peak,,20,32,N,Cotton
+Sterling Yelagiri,Jun,Lean,,20,30,N,Cotton
+Sterling Yelagiri,Jul,Lean,,19,28,N,Cotton
+Sterling Yelagiri,Aug,2 Seasons,,19,28,N,Cotton
+Sterling Yelagiri,Sep,Shoulder,,19,28,N,Cotton
+Sterling Yelagiri,Oct,Shoulder,,18,27,N,Cotton
+Sterling Yelagiri,Nov,2 Seasons,,16,25,N,Woolen
+Sterling Yelagiri,Dec,Peak,,14,24,N,Woolen
+Sterling Anaikatti,Jan,2 Seasons,,,,,
+Sterling Anaikatti,Feb,Lean,,,,,
+Sterling Anaikatti,Mar,Shoulder,,,,,
+Sterling Anaikatti,Apr,Peak,,,,,
+Sterling Anaikatti,May,Peak,,,,,
+Sterling Anaikatti,Jun,2 Seasons,,,,,
+Sterling Anaikatti,Jul,Shoulder,,,,,
+Sterling Anaikatti,Aug,2 Seasons,,,,,
+Sterling Anaikatti,Sep,Lean,,,,,
+Sterling Anaikatti,Oct,2 Seasons,,,,,
+Sterling Anaikatti,Nov,Lean,,,,,
+Sterling Anaikatti,Dec,2 Seasons,,,,,
+Sterling Darjeeling,Jan,Lean,,2,10,Y,Heavy Woolen
+Sterling Darjeeling,Feb,Lean,,2,8,y,Heavy Woolen
+Sterling Darjeeling,Mar,Lean,15 onwards season pick up,12,20,N,Light Woolen
+Sterling Darjeeling,Apr,Shoulder,,15,22,N,Cotton
+Sterling Darjeeling,May,Peak,,15,22,N,Cotton
+Sterling Darjeeling,Jun,Peak,,18,22,N,Cotton
+Sterling Darjeeling,Jul,Lean,1st July to 31st July Lean,18,22,N,Cotton and Rain coat
+Sterling Darjeeling,Aug,2 Seasons,01-31 lean,18,22,N,Cotton and Rain coat
+Sterling Darjeeling,Sep,Shoulder,15 onwards season pick up,15,20,N,Cotton
+Sterling Darjeeling,Oct,Peak,,12,18,N,Light Woolen
+Sterling Darjeeling,Nov,Shoulder,,10,15,N,Light Woolen
+Sterling Darjeeling,Dec,Shoulder,20-31 peak,4,10,y,Heavy Woolen
+Sterling Kodai Valley,Jan,Peak,1st jan to 31st Jan,8,18,N,Heavy Woolen
+Sterling Kodai Valley,Feb,Shoulder,1st Feb to 28th Feb,8,20,N,Heavy Woolen
+Sterling Kodai Valley,Mar,Shoulder,1st Mar to 31st Mar,11,22,N,Heavy Woolen
+Sterling Kodai Valley,Apr,Shoulder,1st Apr to 30th Apr,12,25,N,Heavy Woolen
+Sterling Kodai Valley,May,Peak,1st May to 31st May,13,27,N,Heavy Woolen
+Sterling Kodai Valley,Jun,Peak,1st Jun to 30st Jun,12,20,N,Heavy Woolen
+Sterling Kodai Valley,Jul,Lean,1st Jul to 31st Jul,12,18,N,Heavy Woolen
+Sterling Kodai Valley,Aug,Lean,1st Aug to 31st Aug,12,18,N,Heavy Woolen
+Sterling Kodai Valley,Sep,Shoulder,1st Sep to 30th Sep,11,18,N,Heavy Woolen
+Sterling Kodai Valley,Oct,2 Seasons,1st Oct to 31st Oct,11,18,N,Heavy Woolen
+Sterling Kodai Valley,Nov,Lean,1st Nov to 30th Nov,10,18,N,Heavy Woolen
+Sterling Kodai Valley,Dec,Peak,1st Dec to 31st Dec,8,18,N,Heavy Woolen
+Sterling Nainital,Jan,Lean,"chances of snowfall is more on feb so the tourists vist more on feb ,so our occupancy get peak during the month of feb",8,18,Y,Heavy Woolen
+Sterling Nainital,Feb,Lean,"chances of snowfall is more on feb so the tourists vist more on feb ,so our occupancy get peak during the month of feb",10,20,y,Heavy Woolen
+Sterling Nainital,Mar,2 Seasons,,12,25,N,Light Woolen
+Sterling Nainital,Apr,Peak,"Because even though it is summer, hill station temperature is normal compared to other states, that’s why it is our peak season (1st Apr. To 15th Aug.)",18,28,N,Cotton
+Sterling Nainital,May,Peak,"Because even though it is summer, hill station temperature is normal compared to other states, that’s why it is our peak season (1st Apr. To 15th Aug.)",22,32,N,Cotton
+Sterling Nainital,Jun,Peak,"Because even though it is summer, hill station temperature is normal compared to other states, that’s why it is our peak season (1st Apr. To 15th Aug.)",26,35,N,Cotton
+Sterling Nainital,Jul,Peak,15th of july -15th sept is our rainy season.,25,34,N,Cotton
+Sterling Nainital,Aug,Peak,15th of july -15th sept is our rainy season.,24,35,N,Cotton
+Sterling Nainital,Sep,2 Seasons,15th of july -15th sept is our rainy season.,23,33,N,Light Woolen
+Sterling Nainital,Oct,2 Seasons,,18,29,Y,Heavy Woolen
+Sterling Nainital,Nov,Shoulder,because of the festive season during dec our occupancy is full,12,24,y,Heavy Woolen
+Sterling Nainital,Dec,Shoulder,because of the festive season during dec our occupancy is full,8,20,y,Heavy Woolen
+Sterling Goa Varca,Jan,Peak,1st to 20th,19,30,N,Light Woolen
+Sterling Goa Varca,Feb,Peak,,20,31,N,Cotton
+Sterling Goa Varca,Mar,Shoulder,,23,32,N,Cotton
+Sterling Goa Varca,Apr,Shoulder,,25.5,33,N,Cotton
+Sterling Goa Varca,May,Lean,,26,33.5,N,Cotton
+Sterling Goa Varca,Jun,Lean,,25,30,N,Cotton
+Sterling Goa Varca,Jul,Lean,,24,29,N,Cotton
+Sterling Goa Varca,Aug,Shoulder,,24,28,N,Cotton
+Sterling Goa Varca,Sep,Shoulder,,24,29,N,Cotton
+Sterling Goa Varca,Oct,Shoulder,,23,32,N,Cotton
+Sterling Goa Varca,Nov,Peak,,22,33,N,Cotton
+Sterling Goa Varca,Dec,Peak,15th to 31st,21,33,N,Light Woolen
+Sterling Gangtok Orange Village,Jan,Lean,,0,8,Y,Heavy Woolen
+Sterling Gangtok Orange Village,Feb,Lean,,0,8,y,Heavy Woolen
+Sterling Gangtok Orange Village,Mar,Shoulder,15th March onwards,4,15,N,Light Woolen
+Sterling Gangtok Orange Village,Apr,Peak,01st April Onwards till June end,6,18,N,Light Woolen
+Sterling Gangtok Orange Village,May,Peak,01st April Onwards till June end,6,18,N,Light Woolen
+Sterling Gangtok Orange Village,Jun,Peak,01st April Onwards till June end,12,19,N,Light Woolen
+Sterling Gangtok Orange Village,Jul,Shoulder,01st July to 20th July,12,19,N,Light Woolen
+Sterling Gangtok Orange Village,Aug,2 Seasons,,15,20,N,Light Woolen
+Sterling Gangtok Orange Village,Sep,Lean,,15,20,N,Cotton
+Sterling Gangtok Orange Village,Oct,2 Seasons,,15,24,N,Cotton
+Sterling Gangtok Orange Village,Nov,Lean,,15,24,N,Light Woolen
+Sterling Gangtok Orange Village,Dec,2 Seasons,15th Dec to 5th Jan,6,18,Y,Heavy Woolen
+Sterling Padam Pench,Jan,2 Seasons,Long Weekends,2,20,N,Heavy Woolen
+Sterling Padam Pench,Feb,2 Seasons,,12,24,N,Light Woolen
+Sterling Padam Pench,Mar,Peak,After Exam specially last 2 weeks,18,28,N,Light Woolen
+Sterling Padam Pench,Apr,Peak,After Exam specially last 2 weeks,22,35,N,Cotton
+Sterling Padam Pench,May,2 Seasons,,28,42,N,Cotton
+Sterling Padam Pench,Jun,2 Seasons,,28,48,N,Cotton
+Sterling Padam Pench,Jul,Lean,All weekends ( only buffer open),16,24,N,Cotton
+Sterling Padam Pench,Aug,Lean,All weekends,16,25,N,Light Woolen
+Sterling Padam Pench,Sep,Lean,All weekends,16,24,N,Cotton
+Sterling Padam Pench,Oct,Peak,Opening Of park & Festivals,18,32,N,Cotton
+Sterling Padam Pench,Nov,Peak,Opening Of park & Festivals,18,30,N,Light Woolen
+Sterling Padam Pench,Dec,Peak,"X-MAS, New Year & Weekends",6,20,N,Heavy Woolen
+Sterling Mantra Haridwar,Jan,2 Seasons,"Lean Period but Wedding Business Support good. Hindu Wedding Dates (15,16, 18,19,25,26,27,30,31) , Festivals Lohri & Makar Shakranti 14th, 26 Republic Day)",7,20,N,Winter Wear
+Sterling Mantra Haridwar,Feb,2 Seasons,"Lean Period but Wedding Business Support good, Hindu Wedding Dates (4, 6. 7, 8 12 ,13, 17, 24, 25, 26, 29) 14th Valentine Day/ Vasant Panchmi,",10,22,N,Winter Wear
+Sterling Mantra Haridwar,Mar,Shoulder,"Hindu Wedding Dates (1,2,3,4,5,6,7,810,11,12,) Hinu Festival: Maha Shiv Ratri 08th , 25th Holi, 29th Good Friday,",13,27,N,Casual Wear
+Sterling Mantra Haridwar,Apr,Peak,"23rd April Festival :10th Eid, 13th Baisakhi, , 17Ram Navmi , Wedding Date (18, 19. 20)",18,33,N,Summer wear
+Sterling Mantra Haridwar,May,Peak,"Festival & Holidays: 1st May Labour day,12th Mothers Day, Hindu Wedding Date( 6,8,9,10,11,15,16,20,21,22,27,29,30)",21,36,N,Summer wear
+Sterling Mantra Haridwar,Jun,Peak,"CHAAR DHAM END of maximum movement on 30th June. Hindu Wedding Date (1,3,5,6,7,11,12,23,24,26,27), Festivals & Holidays: 16th Fathers Day, 17th Bakra Eid",23,34,N,Summer wear
+Sterling Mantra Haridwar,Jul,Lean,"Wedding Date 9,11,13,12,14,15/ Kanwad Yatra Starts from 22th July till 22nd th July , Last 5 Days No movement of Visitors , 0% Occupancy.Holidays, 16th Harela , 17th Moharram.",23,31,N,Summer wear
+Sterling Mantra Haridwar,Aug,Lean,"Wedding Date, Festival/ Imp Days :4th Aug Freindship Day, 15 th August, Rakhi 19th Aug, Krishna Janmashtmi 26th Aug",23,30,N,Summer wear
+Sterling Mantra Haridwar,Sep,Lean,"No Wedding Date, Festival : 7th Ganesh Chaturthi, Eid 16th Sep.",21,30,N,Summer wear
+Sterling Mantra Haridwar,Oct,Lean,"No Wedding Date, Gandhi Jyanti 2nd Oct, 11th Durka Ashtmi & Navmi , 12th Dussehra, 20th Karwa Chauth.",17,29,N,Casual Wear
+Sterling Mantra Haridwar,Nov,2 Seasons,"CHAAR DHAM KAPAR CLOSED on 2nd NOV, Festival: Diwali 1st Nov,3rd Nov Bhai Dooj,14th Childrens day & 15th Gurunanak Day, Wedding Date (12,13,16,17,18,22,23,25,26,28,29,",11,26,N,Winter Wear
+Sterling Mantra Haridwar,Dec,2 Seasons,"Wedding Date (4, 5, 9,10,14), Festivals 25th Christmas & 31st Night",8,22,N,Winter Wear
+Sterling Shivalik Chail,Jan,Shoulder,,-2,10,Y,Heavy Woolen
+Sterling Shivalik Chail,Feb,Lean,,0,12,Y,Heavy Woolen
+Sterling Shivalik Chail,Mar,Shoulder,,10,18,N,Light Woolen
+Sterling Shivalik Chail,Apr,Peak,,14,25,N,Regular summer wear
+Sterling Shivalik Chail,May,Peak,,15,25,N,Regular summer wear
+Sterling Shivalik Chail,Jun,Peak,,20,30,N,Regular summer wear
+Sterling Shivalik Chail,Jul,Lean,,15,20,N,Regular summer wear
+Sterling Shivalik Chail,Aug,Lean,,16,22,N,Regular summer wear
+Sterling Shivalik Chail,Sep,Lean,,15,22,N,Light Woolen
+Sterling Shivalik Chail,Oct,Shoulder,,12,20,N,Light Woolen
+Sterling Shivalik Chail,Nov,Shoulder,,10,20,N,Heavy Woolen
+Sterling Shivalik Chail,Dec,Peak,,-5,16,Y,Heavy Woolen
+Sterling Legacy Shimla,Jan,Lean,,-1,2,N,Woolen
+Sterling Legacy Shimla,Feb,Lean,,-1,5,N,Woolen
+Sterling Legacy Shimla,Mar,Lean,,8,10,N,Normal
+Sterling Legacy Shimla,Apr,Peak,,18,22,N,Normal
+Sterling Legacy Shimla,May,Peak,,22,28,N,Normal
+Sterling Legacy Shimla,Jun,Peak,,22,28,N,Rainy
+Sterling Legacy Shimla,Jul,Peak,,18,22,N,Rainy
+Sterling Legacy Shimla,Aug,Peak,,16,20,N,Rainy
+Sterling Legacy Shimla,Sep,Peak,,20,24,N,Rainy
+Sterling Legacy Shimla,Oct,2 Seasons,,8,10,N,Woolen
+Sterling Legacy Shimla,Nov,2 Seasons,,8,10,N,Woolen
+Sterling Legacy Shimla,Dec,2 Seasons,,2,6,N,Woolen
+Sterling Panchgani,May,Peak,,20,31,N,Normal
+Sterling Panchgani,Nov,Peak,,13,23,N,Heavy Woolen
+Sterling Panchgani,Dec,Peak,,13,23,N,Heavy Woolen
+Sterling Vythiri Wayanad,Jan,Peak,,15,30,N,Light Woolen
+Sterling Vythiri Wayanad,Feb,Shoulder,,16,30,N,Cotton
+Sterling Vythiri Wayanad,Mar,Shoulder,,18,32,N,Cotton
+Sterling Vythiri Wayanad,Apr,Peak,,18,35,N,Cotton
+Sterling Vythiri Wayanad,May,Peak,,18,34,N,Cotton
+Sterling Vythiri Wayanad,Jun,Lean,,16,30,N,Cotton+ rain gear
+Sterling Vythiri Wayanad,Jul,Lean,,16,30,N,Light Woolen+ rain gear
+Sterling Vythiri Wayanad,Aug,Shoulder,,16,30,N,Light Woolen+ rain gear
+Sterling Vythiri Wayanad,Sep,Shoulder,,16,30,N,Light Woolen+ rain gear
+Sterling Vythiri Wayanad,Oct,Shoulder,,16,30,N,Light Woolen
+Sterling Vythiri Wayanad,Nov,Peak,,16,28,N,Light Woolen
+Sterling Vythiri Wayanad,Dec,Peak,,16,28,N,Light Woolen
+Sterling Balicha Udaipur,Jan,Peak,Wedding season & Long Weekends,9.3,23.6,N,Heavy Woolen
+Sterling Balicha Udaipur,Feb,Peak,Wedding season & Long Weekends,11.9,26.6,N,Light Woolen
+Sterling Balicha Udaipur,Mar,Peak,Wedding season & Long Weekends,16.4,31.7,N,Cotton
+Sterling Balicha Udaipur,Apr,2 Seasons,,21.1,36.5,N,Cotton
+Sterling Balicha Udaipur,May,Lean,Wedding season,24.4,38,N,Cotton
+Sterling Balicha Udaipur,Jun,Lean,,24.8,34.9,N,Cotton
+Sterling Balicha Udaipur,Jul,2 Seasons,1st of july -15th sept is our rainy season.,23.3,29.2,N,Cotton
+Sterling Balicha Udaipur,Aug,2 Seasons,1st of july -15th sept is our rainy season.,22.4,27.7,N,Cotton
+Sterling Balicha Udaipur,Sep,Shoulder,1st of july -15th sept is our rainy season.,21.3,29.5,N,Cotton
+Sterling Balicha Udaipur,Oct,Shoulder,Long Weekends,18.8,31.2,N,Light Woolen
+Sterling Balicha Udaipur,Nov,Peak,Wedding season,15.2,28.2,N,Light Woolen
+Sterling Balicha Udaipur,Dec,Peak,because of the festive season during dec our occupancy is full,10.8,24.7,N,Heavy Woolen
+Sterling Corbett,Jan,Lean,01 - 31 Lean,3,22,N,Heavy Woolen
+Sterling Corbett,Feb,Lean,01 - 28 Lean,3,22,N,Light Woolen
+Sterling Corbett,Mar,Peak,15 - 31 Peak,10,30,N,Light Woolen
+Sterling Corbett,Apr,Peak,01 - 30 Peak,22,35-40,N,Cotton
+Sterling Corbett,May,Peak,01 - 31 Peak,22,35-40,N,Cotton
+Sterling Corbett,Jun,Peak,01 - 30 Peak,22,35-40,N,Cotton
+Sterling Corbett,Jul,Lean,01 - 15 Peak / Lean,22,35-40,N,Cotton
+Sterling Corbett,Aug,Lean,01 - 31 Lean,22,35-40,N,Cotton
+Sterling Corbett,Sep,Lean,01 - 31 Lean,22,35-40,N,Cotton
+Sterling Corbett,Oct,Shoulder,01 - 31 Aveg.,15,35,N,Light Woolen
+Sterling Corbett,Nov,Peak,01 - 30 peak,15,30,N,Heavy Woolen
+Sterling Corbett,Dec,Peak,15-31 Peak,3,22,N,Heavy Woolen
+Sterling Athirappilly,Jan,2 Seasons,"Long Weekend: 13th, 14th, 15th (Jan)",23,29,N,
+Sterling Athirappilly,Feb,Shoulder,,24,30,N,
+Sterling Athirappilly,Mar,Shoulder,"Long Weekend: 23rd, 24th, 25th, 29th, 30th, 31st (Mar)",25,31,N,
+Sterling Athirappilly,Apr,Lean,,25,31,N,
+Sterling Athirappilly,May,Lean,,25,29,N,
+Sterling Athirappilly,Jun,2 Seasons,"Long Weekend: 15th, 16th, 17th (June)",24,27,N,
+Sterling Athirappilly,Jul,Shoulder,,24,27,N,
+Sterling Athirappilly,Aug,Shoulder,"Long Weekend: 24th, 25th, 26th (Aug)",24,27,N,
+Sterling Athirappilly,Sep,Shoulder,,24,27,N,
+Sterling Athirappilly,Oct,2 Seasons,"Long Weekend: 29th, 30th & 31st (Oct)",24,28,N,
+Sterling Athirappilly,Nov,Peak,"Long Weekend: 1st, 2nd, 3rd (Nov)",24,28,N,
+Sterling Athirappilly,Dec,Peak,Dec 20th - 31st,23,29,N,
+"Sterling City Centre Bokaro",Jan,Peak,,22,28,N,Light winter wear
+"Sterling City Centre Bokaro",Feb,Peak,,22,28,N,
+"Sterling City Centre Bokaro",Mar,Peak,,22,28,N,
+"Sterling City Centre Bokaro",Apr,Peak,,25,34,N,
+"Sterling City Centre Bokaro",May,Peak,,25,36,N,
+"Sterling City Centre Bokaro",Jun,Shoulder,,24,34,N,
+"Sterling City Centre Bokaro",Jul,Lean,,24,32,N,
+"Sterling City Centre Bokaro",Aug,Lean,,24,32,N,
+Sterling City Centre Bokaro,Sep,Shoulder,,24,32,N,
+Sterling City Centre Bokaro,Oct,2 Seasons,,22,30,N,Light winter wear
+Sterling City Centre Bokaro,Nov,Peak,,20,28,N,winter wear
+Sterling City Centre Bokaro,Dec,Peak,,20,28,N,winter wear
+Sterling Orient Woods,Jan,2 Seasons,Long Weekends,12,20,N,Heavy Woolen
+Sterling Orient Woods,Feb,2 Seasons,,12,24,N,Light Woolen
+Sterling Orient Woods,Mar,Peak,,18,28,N,Light Woolen
+Sterling Orient Woods,Apr,Peak,,22,35,N,Cotton
+Sterling Orient Woods,May,Peak,,28,42,N,Cotton
+Sterling Orient Woods,Jun,2 Seasons,,28,48,N,Cotton
+Sterling Orient Woods,Jul,Lean,All weekends ( only buffer open),16,24,N,Cotton
+Sterling Orient Woods,Aug,Lean,All weekends,16,25,N,Light Woolen
+Sterling Orient Woods,Sep,Lean,All weekends,16,24,N,Cotton
+Sterling Orient Woods,Oct,Peak,Opening Of park & Festivals,18,32,N,Cotton
+Sterling Orient Woods,Nov,Peak,Opening Of park & Festivals,18,30,N,Light Woolen
+Sterling Orient Woods,Dec,Peak,"X-MAS, New Year & Weekends",10,20,N,Heavy Woolen
+Sterling Nainital,Jan,Lean,"chances of snowfall is more on feb so the tourists vist more on feb ,so our occupancy get peak during the month of feb",0,18,Y,Heavy Woolen
+Sterling Nainital,Feb,Lean,"chances of snowfall is more on feb so the tourists vist more on feb ,so our occupancy get peak during the month of feb",5,18,y,Heavy Woolen
+Sterling Nainital,Mar,2 Seasons,,12,22,N,Light Woolen
+Sterling Nainital,Apr,Peak,"Because even though it is summer, hill station temperature is normal compared to other states, that’s why it is our peak season (1st Apr. To 15th Aug.)",18,28,N,Cotton
+Sterling Nainital,May,Peak,"Because even though it is summer, hill station temperature is normal compared to other states, that’s why it is our peak season (1st Apr. To 15th Aug.)",22,32,N,Cotton
+Sterling Nainital,Jun,Peak,"Because even though it is summer, hill station temperature is normal compared to other states, that’s why it is our peak season (1st Apr. To 15th Aug.)",26,35,N,Cotton
+Sterling Nainital,Jul,Peak,15th of july -15th sept is our rainy season.,25,30,N,Cotton
+Sterling Nainital,Aug,Peak,15th of july -15th sept is our rainy season.,24,35,N,Cotton
+Sterling Nainital,Sep,2 Seasons,15th of july -15th sept is our rainy season.,23,30,N,Light Woolen
+Sterling Nainital,Oct,2 Seasons,,18,26,Y,Heavy Woolen
+Sterling Nainital,Nov,Shoulder,because of the festive season during dec our occupancy is full,12,25,y,Heavy Woolen
+Sterling Nainital,Dec,Shoulder,because of the festive season during dec our occupancy is full,8,20,y,Heavy Woolen
+Sterling Corbett,Jan,Lean,01 - 31 Lean,3,22,N,Heavy Woolen
+Sterling Corbett,Feb,Lean,01 - 28 Lean,3,22,N,Light Woolen
+Sterling Corbett,Mar,Peak,15 - 31 Peak,10,30,N,Light Woolen
+Sterling Corbett,Apr,Peak,01 - 30 Peak,22,35-40,N,Cotton
+Sterling Corbett,May,Peak,01 - 31 Peak,22,35-40,N,Cotton
+Sterling Corbett,Jun,Peak,01 - 30 Peak,22,35-40,N,Cotton
+Sterling Corbett,Jul,Lean,01 - 15 Peak / Lean,22,35-40,N,Cotton
+Sterling Corbett,Aug,Lean,01 - 31 Lean,22,35-40,N,Cotton
+Sterling Corbett,Sep,Lean,01 - 31 Lean,22,35-40,N,Cotton
+Sterling Corbett,Oct,Shoulder,01 - 31 Aveg.,15,35,N,Light Woolen
+Sterling Corbett,Nov,Peak,01 - 30 peak,15,30,N,Heavy Woolen
+Sterling Corbett,Dec,Peak,15-31 Peak,3,22,N,Heavy Woolen

@@ -100,7 +100,7 @@ sde-delivery-assignment/
   "check_in": "2025-01-03",
   "check_out": "2025-01-04",
   "guests": 2,
-  "call_summary": "User asked about room availability for Executive Room."
+  "call_summary": "User asked about room availability for Executive Room at Kemps Corner Hotel. Wants to book for 2 people."
 }
 ```
 <img width="1561" height="99" alt="image" src="https://github.com/user-attachments/assets/43ebf587-c47a-4d63-8279-c150cc04dcce" />
